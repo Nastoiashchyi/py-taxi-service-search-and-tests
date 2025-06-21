@@ -83,4 +83,3 @@ class ManufacturerSearchForm(forms.Form):
             attrs={"placeholder": "Search by Name"}
         ),
     )
-
